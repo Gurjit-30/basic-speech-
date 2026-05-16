@@ -34,4 +34,4 @@ speech-recognition-app/
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 
-Linkedin id:https://www.linkedin.com/in/abhey-garg-032b53289/
+
